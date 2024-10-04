@@ -5,9 +5,9 @@
 
 
 #making the lists
-available_pizzas = ['margarita', 'pollo', '4cheese', 'bolognese', 'vegetarian']
+available_pizzas = ['margherita', 'pollo', '4cheese', 'bolognese', 'vegetarian']
 available_toppings = ['mushroom', 'onions', 'green pepper', 'extra cheese']
-pizza_prices = {'margarita': 5, 'pollo': 7, '4cheese': 6, 'bolognese': 8, 'vegetarian': 6.5}
+pizza_prices = {'margherita': 5, 'pollo': 7, '4cheese': 6, 'bolognese': 8, 'vegetarian': 6.5}
 topping_prices = {'mushroom':1, 'onions': 2, 'green pepper':3, 'extra cheese':4}
 sub_total = []
 final_order = {}
