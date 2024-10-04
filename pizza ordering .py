@@ -7,8 +7,8 @@
 #making the lists
 available_pizzas = ['margherita', 'pollo', '4cheese', 'bolognese', 'vegetarian']
 available_toppings = ['mushroom', 'onions', 'green pepper', 'extra cheese']
-pizza_prices = {'margherita': 5, 'pollo': 7, '4cheese': 6, 'bolognese': 8, 'vegetarian': 6.5}
-topping_prices = {'mushroom':1, 'onions': 2, 'green pepper':3, 'extra cheese':4}
+pizza_prices = {'margherita': 50, 'pollo': 70, '4cheese': 60, 'bolognese': 80, 'vegetarian': 65}
+topping_prices = {'mushroom':10, 'onions': 20, 'green pepper':30, 'extra cheese':40}
 sub_total = []
 final_order = {}
 customer_adress = {}
